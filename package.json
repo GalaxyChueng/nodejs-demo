@@ -1,0 +1,12 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "scripts": {
+    "main": "node main.js"
+  },
+  "dependencies": {
+    "koa": "^2.11.0",
+    "request": "^2.88.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
